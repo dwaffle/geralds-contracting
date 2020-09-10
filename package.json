@@ -1,0 +1,13 @@
+{
+  "name": "blank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prestart": "tsc",
+    "start": "node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Doug Waffle",
+  "license": "ISC"
+}
