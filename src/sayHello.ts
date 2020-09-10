@@ -1,4 +1,4 @@
-export function sayHello()
+export function sayGoodbye()
 {
-    console.log("Bonjour la monde!")
+    console.log("Au revoir la monde!")
 }

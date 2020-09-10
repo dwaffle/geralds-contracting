@@ -69,3 +69,5 @@ Gerald has decided to commission you to build him a simple application to calcul
 ---
 * l: The length of the house, in feet.
 * w:  The width of the house, in feet.
+
+This is a change made so that my GitHub will reflect it.
